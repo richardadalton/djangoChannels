@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 
 $ docker run -p 6379:6379 -d redis:5
 
-##Running
+## Running
 
 * $ python manage.py runserver
 * Open http://127.0.0.1:8000/chat/ in browser
